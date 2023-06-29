@@ -43,12 +43,15 @@ body {
     border: 2px solid var(--branco-princial)
 }
 
-.containe_aviso {
+.container_aviso {
     font-size:12px
     color: var(--cinza-secundari);
 }
 
-.contener
+.contener_titulo{
+    font-size: 28px;
+    font-weight: 700;
+}
 
 
     
